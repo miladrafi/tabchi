@@ -14,7 +14,7 @@ sudo apt-get update; sudo apt-get upgrade
 
 sudo apt-get dist-upgrade; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf
 
-git clone https://github.com/miladrafi/tabchi.git && cd TabChi && chmod 777 install.sh && ./install.sh
+git clone https://github.com/miladrafi/tabchi.git && cd tabchi && chmod 777 install.sh && ./install.sh
 
 lua creator.lua
 
@@ -23,12 +23,12 @@ lua creator.lua
 `````
 * **launch**
 `````sh
-cd TabChi && screen ./tabchi-0.sh
+cd tabchi && screen ./tabchi-0.sh
 `````
 
 * **run **
 `````sh
-/setaddedmsg addi bia pv:heart_eyes_cat::balloon:
+/setaddedmsg addi bia pv
 
 /addedmsg on
 
