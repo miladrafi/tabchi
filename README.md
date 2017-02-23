@@ -23,10 +23,14 @@ lua creator.lua
 `````
 * **launch**
 `````sh
-cd TabChi && ./tabchi-0.sh
+cd TabChi && screen ./tabchi-0.sh
 `````
 
 * **run **
 `````sh
-cd TabChi && ./tabchi-0.sh
+/setaddedmsg addi bia pv:heart_eyes_cat::balloon:
+
+/addedmsg on
+
+/markread on
 `````
