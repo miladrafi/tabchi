@@ -34,3 +34,4 @@ cd tabchi && screen ./tabchi-0.sh
 
 /markread on
 `````
+.
